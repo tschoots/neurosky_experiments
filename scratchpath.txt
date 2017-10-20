@@ -1,0 +1,14 @@
+# all neurosky python stuff came from:
+https://github.com/lihas/NeuroPy
+
+# go stuff
+https://gobot.io/documentation/platforms/neurosky/
+
+# put in discover mode
+http://support.neurosky.com/kb/mindwave-mobile/how-do-i-put-the-mindwave-mobile-into-discovery-mode
+
+
+# how to create a port
+http://www.heatxsink.com/entry/how-to-pair-a-bluetooth-device-from-command-line-on-linux
+
+1. hcitool scan
